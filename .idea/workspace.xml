@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e866d339-c7be-4d12-8e52-587dc97249b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adecco/modelo/Agua.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Agua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adecco/modelo/Alcohol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Alcohol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adecco/modelo/Bebida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Bebida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adecco/modelo/Gaseosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Gaseosa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,6 +69,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680003149524</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio de polimorfismo con clase super y subclases.">
+      <created>1680005629221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680005629221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio de polimorfismo con clase super y subclases." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio de polimorfismo con clase super y subclases." />
   </component>
 </project>
